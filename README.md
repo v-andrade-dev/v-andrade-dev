@@ -11,7 +11,7 @@
   <p>Sobre min, bom vamos lá, eu sou nerd dos games, e gosto de aprender na prática, embora não suba tudo o que faço aqui no github, apenas projetos completos ou que sejam mais atrativos. Atualmente faço estágio, onde dou suporte ao sistema interno da empresa (ERP), correção de bugs e criação de novas funcionalidades de acordo com pedidos dos usuários, utilizando C#. Também trabalho no novo sistema que está sendo desenvolvido em Flutter.</p>
   <p>
     Atualmente curso 3º semestre de Análise e desenvolvimento de sistemas e estou focado em estudar Flutter e C#, tecnologias que desenvolvo diariamente no estágio, fazendo operações de CRUD com SQL Server e integração com a API.
-    Utilizo o Azure Devops, para gereciar os processos e controle de versão.
+    Utilizo o Azure Devops, para gerenciar os processos e controle de versão.
   </p>
 </div>
 
